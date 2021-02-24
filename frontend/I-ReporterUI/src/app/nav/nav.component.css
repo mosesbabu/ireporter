@@ -1,0 +1,21 @@
+ul {
+  margin-left: 0px;
+  font-size: larger;
+  color: white;
+  min-height: 60px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+
+li a:hover {
+  color: white;
+}
+
+.dropdown-menu a:hover {
+  background-color: grey;
+}
